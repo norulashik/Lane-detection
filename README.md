@@ -3,4 +3,4 @@ This project focuses on developing a model for detecting lane lines on roads, a 
 
 
 Here is the link for the video used in the code:
-[Watch the demo video](https://drive.google.com/file/d/1VKE9KaDaWdgnVho9f3YFIZWxkLDE8-Me/view?usp=drive_link)
+[TEST VIDEO](https://drive.google.com/file/d/1VKE9KaDaWdgnVho9f3YFIZWxkLDE8-Me/view?usp=drive_link)
