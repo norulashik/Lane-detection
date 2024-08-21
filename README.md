@@ -1,2 +1,2 @@
-# Lane-detection
-This project implements lane detection on roads using OpenCV and NumPy, crucial for advanced driver-assistance systems and autonomous driving. The model accurately identifies and tracks lane lines, making it applicable for real-world driving scenarios.
+Lane Detection using OpenCV
+This project focuses on developing a model for detecting lane lines on roads, a critical component for advanced driver-assistance systems (ADAS) and autonomous driving technologies. Using OpenCV and NumPy, the project implements edge detection, region of interest masking, and the Hough Line Transform to accurately identify and track lane lines. The system is designed to be robust across diverse road conditions and is validated for potential real-world applications like lane-keeping assistance and autonomous navigation.
